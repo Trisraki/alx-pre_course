@@ -1,1 +1,4 @@
-my second readme updated
+# 0x03. Git
+Git
+Code versioning
+Github
